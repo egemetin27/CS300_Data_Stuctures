@@ -1,0 +1,3 @@
+﻿  BVHTree.cpp
+C:\Users\EGE METIN\source\repos\CS300\BoundingVolumeHierarchies\BoundingVolumeHierarchies\BVHTree.cpp(168,20): warning C4018: '<': signed/unsigned mismatch
+  BoundingVolumeHierarchies.vcxproj -> C:\Users\EGE METIN\source\repos\CS300\BoundingVolumeHierarchies\Debug\BoundingVolumeHierarchies.exe
